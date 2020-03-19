@@ -638,7 +638,7 @@ form input:not([type="submit"]), form textarea { padding: 20px 20px; background:
 
 #branding { float: left; }
 #branding .logo, #branding .logo-copy { display: inline-block; vertical-align: middle; }
-#branding .logo { margin-right: 10px; }
+#branding .logo { height: 100px; width: 100px; margin-right: 10px; }
 #branding .site-title { color: white; font-size: 14px; font-size: 0.875rem; font-family: "Novecento Sans", "Open Sans", sans-serif; text-transform: uppercase; margin: 0; line-height: 1; }
 #branding .site-title a { color: white; }
 #branding .site-description { font-size: 13px; font-size: 0.8125rem; }

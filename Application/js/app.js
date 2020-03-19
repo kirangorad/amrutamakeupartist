@@ -97,7 +97,7 @@
 					}  
 				},
 				marker:{
-					address: "40 Sibley St, Detroit",
+					address: "Lane No. 13, Sai Nagari, Sunita Nagar, Wadgaon Sheri, Pune, Maharashtra 411014, India",
 				}
 			},
 			"autofit" );

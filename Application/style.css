@@ -680,6 +680,6 @@ img { max-width: 100%; }
 .widget { font-size: 14px; font-size: 0.875rem; }
 .widget .widget-title { font-family: "Novecento Sans", "Open Sans", sans-serif; text-transform: uppercase; color: white; font-weight: 600; margin-bottom: 30px; }
 .widget.contact-widget address, .widget.contact-widget .mail, .widget.contact-widget .phone { padding-left: 30px; position: relative; margin-bottom: 10px; display: block; }
-.widget.contact-widget address .icon, .widget.contact-widget .mail .icon, .widget.contact-widget .phone .icon { position: absolute; left: 0; top: 5px; }
+.widget.contact-widget address .icon, .widget.contact-widget .mail .icon, .widget.contact-widget .phone .icon { position: absolute; left: 0; top: 5px; color: #cc7250;}
 
 .colophon { font-size: 14px; font-size: 0.875rem; text-align: center; padding: 30px 0 0; }

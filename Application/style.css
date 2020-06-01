@@ -139,6 +139,8 @@ form input:not([type="submit"]), form textarea { padding: 20px 20px; background:
 
 .feature { text-align: center; margin-bottom: 50px; }
 .feature .feature-title { font-size: 30px; font-size: 1.875rem; text-transform: uppercase; font-weight: 300; font-family: "Novecento Sans", "Open Sans", sans-serif; background-image: -webkit-linear-gradient(90deg, #cc7250, #f7d0c2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 20px; }
+.feature .feature-image { width: 175px; height: 175px; border-radius: 50%; overflow: hidden; margin: 0 auto; }
+.feature .feature-image img { display: block; max-width: 100%; width: 100%; }
 
 .team { text-align: center; margin-bottom: 30px; }
 .team .team-image { width: 188px; height: 188px; border-radius: 50%; overflow: hidden; margin: 0 auto; }
